@@ -1,0 +1,102 @@
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\luism\Desktop\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\marco\Downloads\5089_Empresa\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\beatr\Downloads\5089_EmpresaPagamento\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\luism\Downloads\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\marco\Downloads\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\luism\Desktop\5089_EmpresaOpsie Daisie_validacoesOK\5089_EmpresaOpsie Daisie_validacoes_corrigido\5089_EmpresaOpsie Daisie\5089_EmpresaOpsie Daisie\5089_Empresa\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
